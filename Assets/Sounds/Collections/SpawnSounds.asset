@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a48ff31ff361414083013b46c70b0ab, type: 3}
+  m_Name: SpawnSounds
+  m_EditorClassIdentifier: 
+  name: 
+  volumeScale: 0.2
+  audioClips:
+  - {fileID: 8300000, guid: ef67a3578ef714a209c2b8268d9079b9, type: 3}
+  - {fileID: 8300000, guid: 09404cfbb185d4ef082b50b2b33f0a85, type: 3}
+  - {fileID: 8300000, guid: 9ede5c037b16c4d4286fde48f5a1f5e9, type: 3}
+  - {fileID: 8300000, guid: 04efdcb28dd434f68b407c8fa7265d5f, type: 3}
+  - {fileID: 8300000, guid: 300d78c1fa1b74589b410cfca1ca0ed4, type: 3}
+  - {fileID: 8300000, guid: d53e283f9e986435f87f2352713d0819, type: 3}
+  - {fileID: 8300000, guid: 210b2d35f6f6940d78b0f3aca379de2e, type: 3}
+  - {fileID: 8300000, guid: 6d2dceb49d07e4e5cbb91157fb3ddc24, type: 3}
+  - {fileID: 8300000, guid: 85939b22addbe4a6ea74125b711076b9, type: 3}
+  - {fileID: 8300000, guid: 82d16f7de72c8451d99797c6848d3e30, type: 3}
+  - {fileID: 8300000, guid: 6dcb917f6aadd4e2caa12d1aedda322c, type: 3}
+  - {fileID: 8300000, guid: e002d291839704bc88dae56c033d5164, type: 3}
+  - {fileID: 8300000, guid: 211e02e17bacb4663901eadac7484ac8, type: 3}
